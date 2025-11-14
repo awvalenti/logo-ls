@@ -226,7 +226,7 @@ For proper working of `logo-ls` the following should be set
 
 Installation is very easy and straight forward with many options to choose from.
 
-As of now almost all installation methods require downloading resources from the Github Release page of the project, so to be a bit more secure consider **Checking the Signature** of `logo-ls_SHA512sums.txt` text file and then use this file to check weather the resource have been tampered. This complete process is explained in more detail in [Check the downloaded Resource](#check-the-downloaded-resource) section below. (This is a recommended step and not at all required)
+As of now almost all installation methods require downloading resources from the Github Release page of the project, so to be a bit more secure consider **Checking the Signature** of `logo-ls_SHA512sums.txt` text file and then use this file to check whether the resource has been tampered with. This complete process is explained in more detail in [Check the downloaded Resource](#check-the-downloaded-resource) section below. (This is a recommended step and not at all required)
 
 ### Debian (.deb package)
 
